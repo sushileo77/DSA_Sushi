@@ -1,5 +1,7 @@
-#QuickSort
+/*
+	QuickSort
 
+*/
 
 static void swap(int [] arr, int i, int j) {
 	int temp = arr[i];
